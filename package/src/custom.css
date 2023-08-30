@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.css-10892oo {
+  overflow: auto !important;
+}
+.css-1ipsjrj-MuiTable-root {
+  white-space: normal !important;
+}
+td:last-child {
+  white-space: nowrap !important;
+}
+th {
+  white-space: nowrap;
+}
+.css-aszqtv-MuiTypography-root {
+  font-size: 14px;
+  white-space: nowrap;
+}
+.css-k0v6b3-MuiPaper-root-MuiCard-root {
+  width: auto !important;
+}
+
+.css-bg7lyu .css-1a8c2jw-MuiContainer-root {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.css-46bh2p-MuiCardContent-root {
+  padding: 10px !important;
+}
+.css-zylse7-MuiButtonBase-root-MuiIconButton-root:hover {
+  background-color: transparent !important;
+}
